@@ -1,9 +1,9 @@
 <?php
 
-namespace Afrikpay\SymfonyFees;
+namespace Afrikpay\Sdk\SymfonyThirdPartyAdapter;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AfrikpaySymfonyFeesBundle extends Bundle
+class AfrikpaySymfonyThirdpartyAdapterSdkBundle extends Bundle
 {
 }

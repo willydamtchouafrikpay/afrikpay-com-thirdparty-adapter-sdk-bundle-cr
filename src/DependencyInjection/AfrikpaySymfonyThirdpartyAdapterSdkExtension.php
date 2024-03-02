@@ -1,13 +1,13 @@
 <?php
 
-namespace Afrikpay\SymfonyFees\DependencyInjection;
+namespace Afrikpay\Sdk\SymfonyThirdPartyAdapter\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 
-class AfrikpaySymfonyFeesExtension extends Extension
+class AfrikpaySymfonyThirdpartyAdapterSdkExtension extends Extension
 {
     /**
      * @throws \Exception
